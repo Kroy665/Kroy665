@@ -13,7 +13,7 @@ for(let i=0; i< 100; i++){
     setInterval(()=>{
         var randN = getRandomNumber(1,100);
         console.log("randN: ",randN)
-        fastcode.dashboard(randN)
+        funstore.dashboard(randN)
     },1000)
     
 }
