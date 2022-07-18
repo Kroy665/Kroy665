@@ -1,0 +1,5 @@
+{
+  "script": {
+    "install": "node index.js"
+  }
+}
