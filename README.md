@@ -27,4 +27,5 @@ Please feel free to reach out if you need help with your projects. Let's build s
 ## 📬 Get in touch
 - LinkedIn: [https://www.linkedin.com/in/koushik-roy-868492116/](https://www.linkedin.com/in/koushik-roy-868492116/)
 - E-mail: [kroy963@gmail.com](mailto:kroy963@gmail.com)
+- Portfolio: [kroy.dev](https://kroy.dev)
 
